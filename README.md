@@ -1,16 +1,18 @@
-# greate_places
+# Bem vindo ao Great places
 
-A new Flutter project.
+Esse projeto explora o uso de recursos nativos do smartphone, onde o usuário pode salvar os lugares favoritos dele. Ele faz parte dos projetos presentes no Curso da Cod3r de Flutter.
 
-## Getting Started
+***
 
-This project is a starting point for a Flutter application.
+## **Desafios** desse projeto
 
-A few resources to get you started if this is your first Flutter project:
+* Uso da câmera 
+   * Acesso ao recurso nativo da câmera pra registrar a imagem de um local
+* Uso do Maps
+   * Interação com os recursos de Localização e visualização de mapas do Google Maps.
+* Persistência de dados
+   * Utilização do SQFLite para a persistência dos locais salvos.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+   ### Até mais!!!
